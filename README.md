@@ -3,7 +3,7 @@
 The official NoMobVarients GitHub repo.
 
 
-This Resource pack removes the new mob varients for the Cows, Pigs, and Chickens.
+This Resource pack removes the new mob varients for the Cows, Pigs, and Chickens found in Minecraft's 1.21.5 update.
 
 Current status:
 
